@@ -1,0 +1,52 @@
+{
+  "name": "angular-splash-loading",
+  "version": "0.0.0",
+  "description": "An AngularJS module for a splash screen with loading indicator",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "splash",
+    "js",
+    "javascript",
+    "loading"
+  ],
+  "homepage": "https://github.com/zentetsukenz/angular-splash-loading",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zentetsukenz/angular-splash-loading.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zentetsukenz/angular-splash-loading/issues",
+    "email": "zentetsukenz@gmail.com"
+  },
+  "license": "MIT",
+  "author": "Wiwatta Mongkhonchit <zentetsukenz@gmail.com> (http://www.zentetsukenz.com)",
+  "main": [
+    "./dist/angular-splash-loading.js",
+    "./dist/angular-splash-loading.css"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "~0.12.0"
+  },
+  "devDependencies": {
+    "angular": "~1.3.2",
+    "angular-mocks": "~1.3.0"
+  },
+  "ignore": [
+    "bower_components",
+    "node_modules",
+    "coverage",
+    "test",
+    "src",
+    ".csslintrc",
+    ".gitattributes",
+    ".gitignore",
+    ".jshintrc",
+    ".nvmrc",
+    ".travis.yml",
+    "build.conf.js",
+    "CHANGELOG.md",
+    "gulpfile.js",
+    "package.json"
+  ]
+}
