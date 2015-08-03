@@ -37,6 +37,10 @@ splashWait.opened.then(function () {
 });
 ```
 
+## Contributing to the project
+
+Please follow [Contributing to open source](https://guides.github.com/activities/contributing-to-open-source/#contributing) for the contribution guidelines.
+
 ## License
 
 Angular Splash Loading is under MIT license.
