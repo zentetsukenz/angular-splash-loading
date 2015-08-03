@@ -1,9 +1,3 @@
-# See http://docs.travis-ci.com/user/languages/javascript-with-nodejs/
-# npm install && npm start are run by travis, everything is covered in the package.json file
+sudo: false
 
 language: node_js
-node_js:
-  - "0.12"
-
-script:
-  - npm test
