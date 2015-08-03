@@ -41,6 +41,8 @@ splashWait.opened.then(function () {
 
 Please follow [Contributing to open source](https://guides.github.com/activities/contributing-to-open-source/#contributing) for the contribution guidelines.
 
+Please also follow [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow), using [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/) should do the job.
+
 ## License
 
 Angular Splash Loading is under MIT license.
