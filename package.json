@@ -1,6 +1,6 @@
 {
   "name": "angular-splash-loading",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An AngularJS module for a splash screen with loading indicator",
   "keywords": [
     "angular",
